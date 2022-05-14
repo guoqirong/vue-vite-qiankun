@@ -21,7 +21,7 @@ export const qiankunApp = [
   },
   {
     name: 'vue2-cnode',
-    entry: 'http://localhost/vue2-cnode/',
+    entry: 'https://guoqirong.github.io/vue2-cnode/',
     container: '#container',
     activeRule: prefix + '/#/vue2-cnode',
   },
